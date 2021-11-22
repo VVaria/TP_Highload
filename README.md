@@ -76,6 +76,11 @@
  Просмотр ленты  | 23000         | 110 млн запросов в день, 10 млн посещений            
 
 
+# Логическая схема
+![image](https://user-images.githubusercontent.com/34479597/142927884-4e7cd008-2c45-4de3-bdc2-fe32509f3a20.png)
+
+# Физическая схема
+
 # Используемые источники
 1. https://onlypult.com/ru/blog/gid-po-rabote-v-tumblr-dlya-nachinauschih
 2. https://saasscout.com/statistics/tumblr-statistics/
