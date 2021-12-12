@@ -103,6 +103,9 @@
 # Схема проекта
 ![image](https://user-images.githubusercontent.com/34479597/145714184-39397337-a710-43d7-8fd0-753c5dbcedd8.png)
 
+# Список серверов
+
+
 # Используемые источники
 1. https://onlypult.com/ru/blog/gid-po-rabote-v-tumblr-dlya-nachinauschih
 2. https://saasscout.com/statistics/tumblr-statistics/
